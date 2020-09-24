@@ -1,0 +1,4 @@
+générateur de site statique sous linux, en python
+créer un fichier markdown pour générer une page html 
+
+markdown

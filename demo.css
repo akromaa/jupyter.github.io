@@ -1,0 +1,95 @@
+/* demo.css */
+body {
+    background:white;
+    color:blue;
+    background-image:url(thumb-1920-523425.jpg);
+}
+
+h2 {
+    background:white;
+    color:blue;
+    margin: right;   
+}
+
+html, body {margin:0; padding:0}
+body {
+background-color:white;
+margin:0 0 0 0;
+}
+h1 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:#00bfff;
+background-color:transparent;
+text-align:center;
+}
+h2 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:#ffd700;
+text-align:right;
+}
+h3 {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+}
+p {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+margin-left:0;
+margin-right:0;
+}
+li {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+margin-left:0;
+margin-right:0;
+}
+a:link {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:visited {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:hover {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:active, a:focus {
+font-family:verdana, sans-serif; font-size:100%; color:black; background-color:transparent; text-decoration:underline; }
+table {
+border-color:white;
+border-style:solid;
+border-width:1px;
+}
+td {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+text-align:left;
+background-color:transparent;
+border-color:white;
+border-style:solid;
+border-width:1px;
+}
